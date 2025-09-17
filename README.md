@@ -81,13 +81,5 @@ Seeded via `data.sql` — one project and one blog post are preloaded.
 
 ---
 
-## 📸 Screens (optional)
-- Home — intro and quick links
-- Projects — grid of projects (public)
-- Blog — list of posts (public)
-- Admin — login + create project (JWT)
-
----
-
 ## 📝 License
 MIT — use freely in your portfolio.
